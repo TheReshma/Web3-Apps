@@ -15,6 +15,7 @@ Views are personal. This isn't an endorsement.
 - [Harbor](https://harborgames.io/)
 - [The New Resistance](https://thenewresistance.io/)
 - [Wild Forest](https://playwildforest.io/)
+- [Defi Kingdom](https://defikingdoms.com/)
 
 ## Analytics
 
@@ -24,3 +25,5 @@ Views are personal. This isn't an endorsement.
 ## Social 
 
 - [ReferReach](https://referreach.com/)
+
+
